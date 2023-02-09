@@ -6,6 +6,10 @@ Navigate to documentation folder:
 ```
 cd Dokumentation
 ```
+install npm package:
+```
+npm i docusaurus
+```
 Run server to publish documentation:
 ```
 npm run start
