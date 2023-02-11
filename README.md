@@ -8,7 +8,7 @@ cd Dokumentation
 ```
 install npm package:
 ```
-npm i docusaurus
+npm install
 ```
 Run server to publish documentation:
 ```
