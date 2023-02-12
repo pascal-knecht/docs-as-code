@@ -1,5 +1,5 @@
 // this is our class to be documented
-class MyClass {
+class MySecondClass {
     
     private String myVariable = "myPrivateValue";
 
